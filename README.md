@@ -1,4 +1,6 @@
 # buttercare-for-her
+<img src="/img/buttermilk.jpeg" width=50%>
+
 Thank you so much for taking care of Lady Buttermilk while we're away. Feel free to help yourself to any food/drinks/snacks/gaming consoles around the apartment and think hard on food and drink we can treat you to when we return 😊
 
 ## Setup
@@ -7,10 +9,18 @@ The house key is hidden along the floor of the squat rack.
 ## Tasks
 
 Caring for Lady Buttermilk involves completing a few recurring quests:
-1. Cleaning the litterbox
-2. Filling her water
-3. Ensuring her food machine is not off
-4. Loving her
+
+### Cleaning the litterbox
+<img src="/img/butterBox.jpeg" width="250px">
+
+### Filling her water
+<img src="/img/waterBowl.jpeg" width="250px">
+
+### Ensuring her food machine is not off
+<img src="/img/foodMachine.jpeg" width="250px">
+
+### Loving her
+Optional.
 
 ## The Amenities
 ### Watching movies / playing videogames
