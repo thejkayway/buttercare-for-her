@@ -1,6 +1,8 @@
 name: Buttercare For Her
-theme: minima
+baseurl: /buttercare-for-her
+url: http://thejkayway.github.io
 
+theme: minima
 title: Buttercare For Her
 
 header_pages:
