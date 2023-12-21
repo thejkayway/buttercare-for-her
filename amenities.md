@@ -4,6 +4,8 @@ title: Fun Stuff
 permalink: /amenities/
 ---
 
+Instructions for the fun stuff in the house.
+
 **Table of Contents**
 * TOC
 {:toc}

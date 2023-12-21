@@ -4,6 +4,8 @@ title: House Info
 permalink: /house/
 ---
 
+Instructions for various things you might need as part of daily life in the house.
+
 **Table of Contents**
 * TOC
 {:toc}
@@ -24,7 +26,7 @@ There are two fire extinguishers:
 
 # Adjusting AC / Heat
 ## Upstairs
-Upstairs has central air. There's a nest thermostat upstairs by the hall bathroom. You can override the upper and lower temperature settings. They'll reset back to scheduled temperatures every night at 10pm and every morning at 10am. If that gets annoying, text Jonathan and he can change the schedule.
+Upstairs has central air. There's a nest thermostat upstairs by the hall bathroom. You can override the upper and lower temperature settings. They'll reset back to our preferred temperatures every night at 10pm and every morning at 10am. If that gets annoying, text Jonathan and he can disable the schedule.
 
 ## Downstairs
 Downstairs has no AC but does have baseboard heaters. There are three thermostats:
@@ -38,10 +40,19 @@ Downstairs has no AC but does have baseboard heaters. There are three thermostat
 >
 > In particular, make sure the curtains in the guest bedroom are pulled to the far left and are not touching the heater!
 
-# Garbage and Recycling
-The outdoor garbage and recycling bins are in the gravel parking area downstairs. Trash day is every Tuesday, recycling is every other Tuesday. The pickup location is across the street from the gravel lot, by the wood railing and the garden plots.
+# Dishwasher
+The dishwasher has all its controls on the top panel of the door.
 
-TODO: photo of bin pickup location
+![Lady Buttermilk](assets/images/dishwasher.png){:.centered width="60%"}
+
+1. Put a pod in the door and close the pod-door latch
+2. Turn it on via the power button on the left
+3. Press the cycle select button (next button from the left after power, roughly in the middle of the panel) until the green light is below "auto 120°"
+4. Close the door. The dishwasher will start.
+5. When you empty it, turn it off.
+
+# Garbage and Recycling
+The outdoor garbage and recycling bins are in our gravel parking area downstairs. Trash day is every Tuesday, recycling is every other Tuesday. The pickup location is across the street from our gravel lot, by the wood railing and garden plots.
 
 ## Upstairs Garbage Bags
 New garbage bags are in a little alcove inside the garbage can and along the back, visible only after you remove the previous bag. If this alcove runs out, more bags are on the floor of the pantry on the far left.
