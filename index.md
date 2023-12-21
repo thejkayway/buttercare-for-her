@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Lady Buttermilk](img/buttermilk.jpeg){: width="40%" }
+![Lady Buttermilk](assets/images/buttermilk.jpeg){:.centered width="40%"}
 
 Thank you so much for taking care of Lady Buttermilk while we're away. Feel free to help yourself to any food/drinks/snacks/etc around the house 😊
 
@@ -29,7 +29,7 @@ She has an automatic food machine. She may try to convince you that she hasn’t
 
 If she’s being insanely insistent, check to see if the machine is on (text will be visible on the display). If it is, you can either watch the machine when it goes off (at 6am, 1pm, or 11pm), or [trigger a meal](#manually-trigger-a-meal) and see if it works.
 
-![Automatic cat feeder](img/foodMachine.png)
+![Automatic cat feeder](assets/images/foodMachine.png){:.centered width="60%"}
 
 If the machine isn’t on, it likely ran out of batteries. Spares are in the big green cabinet by the upstairs bathroom door, in a basket on one of the upper left shelves.
 

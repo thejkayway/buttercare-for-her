@@ -7,7 +7,7 @@ permalink: /amenities/
 # Watching movies / playing videogames
 Plex is the app Jonathan uses to stream movies and TV. It's installed on the Playstation. To watch movies/TV or play video games, you'll need to turn on all the devices.
 
-![Remote controls](img/remoteControls.png)
+![Remote controls](assets/images/remoteControls.png)
 *The only buttons you should need to turn everything on and off*
 
 1. Find the black Yamaha remote and white Benq remote.
