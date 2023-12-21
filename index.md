@@ -12,7 +12,7 @@ This page has the things we're asking you to do, the other pages (in the header)
 * TOC
 {:toc}
 
-# Buttercare Tasks
+## Buttercare Tasks
 
 Caring for Lady Buttermilk involves completing a few recurring quests:
 1. Filling her [water](#water)
@@ -22,7 +22,7 @@ Caring for Lady Buttermilk involves completing a few recurring quests:
 
 We'd also really appreciate it if you'd water the plants, roughly once a week.
 
-## Water
+### Water
 She has three water sources:
 * a water bowl in the walk-in closet near her food
 * a water bowl by the big tub in the master bathroom
@@ -30,7 +30,7 @@ She has three water sources:
 
 Refill them as needed, give them a rinse every couple days to prevent biofilm.
 
-## Food
+### Food
 She has an automatic food machine. She may try to convince you that she hasn’t been fed. 99% of the time she is lying, but there was one time it didn't go off and she will never forget that.
 
 If she’s being insanely insistent, check to see if the machine is on (text will be visible on the display). If it is, you can either watch the machine when it goes off (at 6am, 1pm, or 11pm, give or take an hour due to daylight savings), or [trigger a meal](#manually-trigger-a-meal) and see if it works.
@@ -39,13 +39,13 @@ If she’s being insanely insistent, check to see if the machine is on (text wil
 
 If the machine isn’t on, it likely ran out of batteries. Spares are in the big green cabinet by the upstairs bathroom door, in a basket on one of the upper left shelves.
 
-### Manually trigger a meal
+#### Manually trigger a meal
 
 1. Press `OK` so that the screen backlight comes on
 2. Press the down arrow two times in moderately quick succession (you will hear a beep with each press)
 3. The machine should now dispense about half a meal
 
-## Litter
+### Litter
 She has an automatic litter box so you shouldn’t have to do anything besides make sure it’s still working. If there’s no waste in the litter bed you’re good.
 
 If there is, the waste drawer may need to be emptied (should go 2-3 weeks without needing to be emptied).
@@ -54,7 +54,7 @@ To empty the waste collection drawer, gently pull the step of the litter box for
 
 If it does seem broken, contact us. We have a regular litter box and a scoop tucked away somewhere.
 
-## Plants
+### Plants
 The plants just need water roughly once a week. The watering can is on the bottom shelf of the built-in bookshelf in the living room.
 
 If the plants on the top shelf of that built-in are hard to reach with the watering can, there's a weird turkey baster thing next to where the can sits that Jonathan uses to spray water onto them.

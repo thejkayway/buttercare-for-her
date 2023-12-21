@@ -10,7 +10,7 @@ Instructions for the fun stuff in the house.
 * TOC
 {:toc}
 
-# Watching movies / playing videogames
+## Watching movies / playing videogames
 Plex is the app Jonathan uses to stream movies and TV. It's installed on the Playstation. To watch movies/TV or play video games, you'll need to turn on all the devices.
 
 ![Remote controls](assets/images/remoteControls.png)
@@ -26,8 +26,8 @@ Plex is the app Jonathan uses to stream movies and TV. It's installed on the Pla
 4. Navigate the PS4 menus according to your heart's desire.
     - Plex is in the main screen folder "TV & Video"
 
-# Coffee
-## Drip (Downstairs)
+## Coffee
+### Drip (Downstairs)
 The drip machine downstairs has instructions taped to the equipment. In short:
 1. Scoop out the desired amount of coffee (~1 scoop per cup), place in hopper of grinder
 2. Push cycle button on grinder; should automatically stop itself when done (push cycle button again if not)
@@ -39,11 +39,11 @@ The drip machine downstairs has instructions taped to the equipment. In short:
     - If brewing less than 4 cups of coffee, also select `1-4 CUP` (remember that this is a flavor adjustment and the coffee maker will use all water in the reservoir regardless of this setting)
 7. Press `BREW`
 
-## Espresso (Upstairs)
+### Espresso (Upstairs)
 ![Espresso How-To Video](assets/videos/makingEspresso.mp4)
 
-# Gym
+## Gym
 Feel free to use the exercise equipment. We have a power rack with a bench, a rowing machine, and dumbbells.
 
-# Bike Pump
+## Bike Pump
 We have an electric bike pump on the floor near the trash can in the gym (right next to the door). Turn it on, adjust the display to the desired PSI, attach it to your tires, and hold the trigger until it stops itself.
