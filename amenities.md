@@ -24,12 +24,12 @@ Plex is the app Jonathan uses to stream movies and TV. It's installed on the Pla
     - If they need to be charged, there's a micro-USB cable to the left of the media console, on the floor.
 3. Turn on the projector, the receiver, and the playstation.
 4. Navigate the PS4 menus according to your heart's desire.
-    - Plex is in the main screen folder "TV & Video"
+    - The Plex app is unfortunately a bit hidden. Unless Sony has moved it yet again, it should be in "Library" (furthest right icon) -> "Applications" -> "Plex"
 
 ## Coffee
 ### Drip (Downstairs)
 The drip machine downstairs has instructions taped to the equipment. In short:
-1. Scoop out the desired amount of coffee (~1 scoop per cup), place in hopper of grinder
+1. Scoop out the desired amount of coffee (dosage chart is attached to the grinder), place in hopper of grinder
 2. Push cycle button on grinder; should automatically stop itself when done (push cycle button again if not)
 3. Pour coffee grounds into the metal filter cone of the coffee maker
 4. Fill water reservoir to desired level
