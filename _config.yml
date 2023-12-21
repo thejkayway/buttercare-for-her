@@ -1,6 +1,8 @@
 name: Buttercare For Her
 theme: minima
 
+title: Buttercare For Her
+
 header_pages:
   - amenities.md
   - house.md
