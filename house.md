@@ -10,19 +10,8 @@ Instructions for various things you might need as part of daily life in the hous
 * TOC
 {:toc}
 
-# In Case of Emergency
-## Electrical breaker boxes
-There are two breaker boxes:
-1. In the gym. This controls all electricity upstairs, the water heater, and the gym.
-2. In the downstairs dining area. This controls all electricity in the theater, downstairs dining area, kitchen, downstairs bathroom, and downstairs bedroom.
-
-## Water shutoff
-The whole-house water shutoff is behind a square white plastic wall panel beneath the bikes in the downstairs hallway. If you don't need whole-house water shutoff, each faucet/toilet/etc has its own shutoff.
-
-## Fire extinguishers
-There are two fire extinguishers:
-1. In the upstairs kitchen, in the alcove on the floor to the right of the fridge.
-2. In the downstairs kitchen, underneath the sink.
+# Wifi
+The wifi network and password are written on a note on the fridge.
 
 # Adjusting AC / Heat
 ## Upstairs
@@ -66,3 +55,17 @@ We have a small indoor bin (on the right side of the upstairs kitchen trash) and
 When the indoor bin gets full, you can remove the green bin from inside the metal shell and dump it into the larger bin. Rinse the green indoor bin and when it's dry, new compostable liner bags are on the floor of the pantry to the far left.
 
 Compost gets picked up every other Monday, same week as recycling. Pickup area is on the bottom step of our front steps.
+
+# In Case of Emergency
+## Electrical breaker boxes
+There are two breaker boxes:
+1. In the gym. This controls all electricity upstairs, the water heater, and the gym.
+2. In the downstairs dining area. This controls all electricity in the theater, downstairs dining area, kitchen, downstairs bathroom, and downstairs bedroom.
+
+## Water shutoff
+The whole-house water shutoff is behind a square white plastic wall panel beneath the bikes in the downstairs hallway. If you don't need whole-house water shutoff, each faucet/toilet/etc has its own shutoff.
+
+## Fire extinguishers
+There are two fire extinguishers:
+1. In the upstairs kitchen, in the alcove on the floor to the right of the fridge.
+2. In the downstairs kitchen, underneath the sink.

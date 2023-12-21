@@ -17,8 +17,10 @@ This page has the things we're asking you to do, the other pages (in the header)
 Caring for Lady Buttermilk involves completing a few recurring quests:
 1. Filling her [water](#water)
 2. Checking that her [food machine](#food) is still full of food and powered on
-3. Checking that her automatic [litterbox]() has been working
+3. Checking that her automatic [litterbox](#litter) has been working
 4. Loving her
+
+We'd also really appreciate it if you'd water the plants, roughly once a week.
 
 ## Water
 She has three water sources:
@@ -53,7 +55,9 @@ To empty the waste collection drawer, gently pull the step of the litter box for
 If it does seem broken, contact us. We have a regular litter box and a scoop tucked away somewhere.
 
 ## Plants
-The plants just need water roughly once a week. The watering can is on the bottom shelf of the built-in bookshelf in the living room. If the plants on the top shelf of that built-in are hard to reach with the watering can, there's a weird turkey baster thing next to where the can sits that Jonathan uses to spray water onto the plants on the top shelf where the watering can doesn't reach.
+The plants just need water roughly once a week. The watering can is on the bottom shelf of the built-in bookshelf in the living room.
+
+If the plants on the top shelf of that built-in are hard to reach with the watering can, there's a weird turkey baster thing next to where the can sits that Jonathan uses to spray water onto them.
 
 1. Gently poke the soil with your finger. If it's damp, do not water. Otherwise go to step 2.
 2. Water until the soil gets squishy and damp, but stop before it gets soupy. Less is usually more.
