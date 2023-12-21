@@ -6,7 +6,8 @@ layout: home
 
 Thank you so much for taking care of Lady Buttermilk while we're away. Feel free to help yourself to any food/drinks/snacks/etc around the house 😊
 
-* Table of Contents
+**Table of Contents**
+* TOC
 {:toc}
 
 # Buttercare Tasks

@@ -4,6 +4,10 @@ title: Fun Stuff
 permalink: /amenities/
 ---
 
+**Table of Contents**
+* TOC
+{:toc}
+
 # Watching movies / playing videogames
 Plex is the app Jonathan uses to stream movies and TV. It's installed on the Playstation. To watch movies/TV or play video games, you'll need to turn on all the devices.
 

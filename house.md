@@ -3,6 +3,11 @@ layout: page
 title: House Info
 permalink: /house/
 ---
+
+**Table of Contents**
+* TOC
+{:toc}
+
 # In Case of Emergency
 ## Electrical breaker boxes
 There are two breaker boxes:
