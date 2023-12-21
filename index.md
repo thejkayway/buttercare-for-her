@@ -2,8 +2,7 @@
 layout: home
 ---
 
-![Lady Buttermilk](img/buttermilk.jpeg)
-<img src="https://thejkayway.github.io/buttercare-for-her/img/buttermilk.jpeg" width=40%>
+![Lady Buttermilk](img/buttermilk.jpeg){: width="40%" }
 
 Thank you so much for taking care of Lady Buttermilk while we're away. Feel free to help yourself to any food/drinks/snacks/etc around the house 😊
 
