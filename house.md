@@ -13,6 +13,23 @@ Instructions for various things you might need as part of daily life in the hous
 # Wifi
 The wifi network and password are written on a note on the fridge.
 
+# Where are:
+## Bandages
+Two locations:
+1. The big drawer under the sink in the upstairs hall bathroom
+2. The medicine cabinet in the master bathroom
+
+## Cleaning Supplies
+In wicker baskets on the bottom-left shelf of the big green shelving unit near the pantry
+
+## Sheets / Towels
+* For upstairs bedroom & shower: lower shelves of the big green shelving unit near the pantry
+* For downstairs bedroom & shower: in an alcove behind the bathroom door (inside the bathroom)
+
+## Spare Cables for Electronics
+* Second drawer in the white filing cabinet in Jonathan's office
+* Two boxes on the top shelf of the wire rack in the gym
+
 # Adjusting AC / Heat
 ## Upstairs
 Upstairs has central air. There's a nest thermostat upstairs by the hall bathroom. You can override the upper and lower temperature settings. They'll reset back to our preferred temperatures every night at 10pm and every morning at 10am. If that gets annoying, text Jonathan and he can disable the schedule.

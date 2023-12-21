@@ -40,7 +40,7 @@ The drip machine downstairs has instructions taped to the equipment. In short:
 7. Press `BREW`
 
 ## Espresso (Upstairs)
-TODO: espresso machine instructions
+![Espresso How-To Video](assets/videos/makingEspresso.mp4)
 
 # Gym
 Feel free to use the exercise equipment. We have a power rack with a bench, a rowing machine, and dumbbells.
